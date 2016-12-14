@@ -72,6 +72,6 @@ Welcome to **ICCC's Useful Stuff** Wiki!
 *   [ExpoFood](ExpoFood)
 *   [GREYCstoration](GREYCstoration) - params for GNU/free digital camera noise removal plugin
 
-This is mainly intended for a repository for all those tidbits of information that should go somewhere, to help new club members organise things & to prevent the horrific intelligence-loss that occurs with every graduation otherwise.
+This is mainly intended for a repository for all those tidbits of information that should go somewhere, to help new club members organise things & to prevent the horrific intelligence-loss that occurs with every graduation otherwise...
 
 **[Links](Links) away from the ICCC fiefdom**
