@@ -8,11 +8,11 @@ Welcome to **ICCC's Useful Stuff** Wiki!
 **Organisation**
 
 *   [Running UK Trips](RunningTripsUK)
-    *   [Things to Bring](Things To Bring)
+    *   [Things to Bring](ThingsToBring)
     *   [Things to Buy](ThingsToBuy)
     *   [Superstore Locations](SuperStoresLocations)
 *   [Post Trip Clean Up](WashingKit)
-*   [Cave Information](Cave%20Information)
+*   [Cave Information](CaveInformation)
 *   [Hut Information](HutInformation)
 *   [Weather](Weather)
 *   [Union](Union)
@@ -28,7 +28,7 @@ Welcome to **ICCC's Useful Stuff** Wiki!
 
 **Tours**
 
-*   [Croatia2008](Croatia 2008) [Croatia2008Writeup](Croatia 2008 Writeup)
+*   [Croatia2008](Croatia 2008) [Croatia2008Writeup](Croatia2008Writeup)
 *   [Sardinia](Sardinia) Easter2007
 
 **Guides**
