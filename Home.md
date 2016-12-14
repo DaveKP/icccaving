@@ -6,35 +6,35 @@ Welcome to **ICCC's Useful Stuff** Wiki!
 
 **Organisation**
 
-*   [Running UK Trips](RunningTripsUK.md)
-    *   [Things to Bring](Things To Bring.md)
-    *   [Things to Buy](ThingsToBuy.md)
-    *   [Superstore Locations](SuperStoresLocations.md)
-*   [Post Trip Clean Up](WashingKit.md)
-*   [Cave Information](Cave%20Information.md)
-*   [Hut Information](HutInformation.md)
-*   [Weather](Weather.md)
-*   [Union](Union.md)
-*   [London Car Hire](LondonCarHire.md)
+*   [Running UK Trips](RunningTripsUK)
+    *   [Things to Bring](Things To Bring)
+    *   [Things to Buy](ThingsToBuy)
+    *   [Superstore Locations](SuperStoresLocations)
+*   [Post Trip Clean Up](WashingKit)
+*   [Cave Information](Cave%20Information)
+*   [Hut Information](HutInformation)
+*   [Weather](Weather)
+*   [Union](Union)
+*   [London Car Hire](LondonCarHire)
 
 **Exploration**
 
-*   [AvalancheInletGapingGill](Avalanche Inlet Gaping Gill.md)
+*   [AvalancheInletGapingGill](Avalanche Inlet Gaping Gill)
 
 **Expeditions:**
 
-*   [Slovenia](Slovenia.md) - 10+ Man-Years
+*   [Slovenia](Slovenia) - 10+ Man-Years
 
 **Tours**
 
-*   [Croatia2008](Croatia 2008.md) [Croatia2008Writeup](Croatia 2008 Writeup.md)
-*   [Sardinia](Sardinia.md) Easter2007
+*   [Croatia2008](Croatia 2008) [Croatia2008Writeup](Croatia 2008 Writeup)
+*   [Sardinia](Sardinia) Easter2007
 
 **Guides**
 
-*   [Repairing Gear](Repair.md)
-*   [Buying Gear](Gear.md)
-*   [Underground Camping](UndergroundCamping.md)
+*   [Repairing Gear](Repair)
+*   [Buying Gear](Gear)
+*   [Underground Camping](UndergroundCamping)
 
 **Shops:**
 
@@ -46,31 +46,31 @@ Welcome to **ICCC's Useful Stuff** Wiki!
 
 **Gear Specific Guides:**
 
-*   [FirstAid](FirstAid.md)
-*   [LittleDragon](LittleDragon.md)
-*   [SurveyBooks](SurveyBooks.md)
-*   [RubbishInBeitQuad](RubbishInBeitQuad.md)
-*   [Survey](Survey.md)
-*   [FireFly](FireFly.md)
-*   [LaserRangefinder](LaserRangefinder.md)
-*   [OneLaptopPerCaver](OneLaptopPerCaver.md) - OLPC/XO/Survex
-*   [SolarEnergy](SolarEnergy.md)
+*   [FirstAid](FirstAid)
+*   [LittleDragon](LittleDragon)
+*   [SurveyBooks](SurveyBooks)
+*   [RubbishInBeitQuad](RubbishInBeitQuad)
+*   [Survey](Survey)
+*   [FireFly](FireFly)
+*   [LaserRangefinder](LaserRangefinder)
+*   [OneLaptopPerCaver](OneLaptopPerCaver) - OLPC/XO/Survex
+*   [SolarEnergy](SolarEnergy)
 
 **Other**
 
-*   [Club Songs](Club Songs.md)
-*   [Big Pitch Top Trumps](BigPitchTopTrumps.md)
-*   [Google Maps](GoogleMaps.md)
-*   [Photography Notes](PhotographyNotes.md)
-*   [Caving Zen](Caving Zen.md)
-*   [Caving Quotes](Caving Quotes.md)
-*   [TShirt](TShirt.md)
-*   [Quotes](Quotes.md)
-*   [ExCommittee](ExCommittee.md)
-*   [TheFirst25Years](TheFirst25Years.md)
-*   [ExpoFood](ExpoFood.md)
-*   [GREYCstoration](GREYCstoration.md) - params for GNU/free digital camera noise removal plugin
+*   [Club Songs](Club Songs)
+*   [Big Pitch Top Trumps](BigPitchTopTrumps)
+*   [Google Maps](GoogleMaps)
+*   [Photography Notes](PhotographyNotes)
+*   [Caving Zen](Caving Zen)
+*   [Caving Quotes](Caving Quotes)
+*   [TShirt](TShirt)
+*   [Quotes](Quotes)
+*   [ExCommittee](ExCommittee)
+*   [TheFirst25Years](TheFirst25Years)
+*   [ExpoFood](ExpoFood)
+*   [GREYCstoration](GREYCstoration) - params for GNU/free digital camera noise removal plugin
 
 This is mainly intended for a repository for all those tidbits of information that should go somewhere, to help new club members organise things & to prevent the horrific intelligence-loss that occurs with every graduation otherwise.
 
-**[Links](Links.md) away from the ICCC fiefdom**
+**[Links](Links) away from the ICCC fiefdom**

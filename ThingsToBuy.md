@@ -10,7 +10,7 @@ Tesco at Earls Court, at the end of the M4 (where we turn off for the
 SWCC), near Warwick off the M40 and next to Derby where we come off the
 M1. This is why the caving club spends roughly 5 in 6 pounds at Tesco.
 
-[SuperStoresLocations](SuperStoresLocations.md)
+[SuperStoresLocations](SuperStoresLocations)
 
 
 
