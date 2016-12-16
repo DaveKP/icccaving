@@ -10,6 +10,6 @@ My phone buzzed and I looked down at it. Jarv has started writing a trip report!
 
 ####Jack
 
-Also not wanting to be left out I made my first ever trip report contribution by typing this while watching Community. I hadn't decided whether to leave at 8.30 or 9.00 yet. I wonder if I'll just be able to push this without someone responsible checking it first.
+Also not wanting to be left out I made my first ever trip report contribution by typing this while watching Community. I hadn't decided whether to leave at 8.30 or 9.00 yet. I wonder if I'll just be able to push this without someone responsible checking it first. UPDATE: Someone did have to check it first. Bother!
 
 ####Dave
